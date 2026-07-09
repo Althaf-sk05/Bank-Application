@@ -26,7 +26,7 @@ accounts = st.session_state.accounts
 # Title
 # ==========================================
 
-st.title("🏦 Smart Banking Management System")
+st.title("🏦 Loco Banking Management System :Dollor: ")
 
 st.write(
     "Manage customer accounts using a simple Streamlit application."
